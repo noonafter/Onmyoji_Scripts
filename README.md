@@ -21,6 +21,16 @@ Pyautogui
 ```
 pip install -r requirements.text
 ```
+## Instruction
+
+### Yuhun instance zones
+To brush "hun10/11" instance zones as a member of others' team, run hun11_single.py on the team stage. Or to limit the PVE process within certain seconds, run hun11_single_125.py file(1000 strength or 125 rounds by default). 
+
+With the help of v5cxdkq.zip, multi-clients can be open at the same time. If you want brush "hun10/11" instance zones on your own two accounts(one as captain, the other as member), you ought to run the hun11_two.py file. Similarily, PVE within a certain period, hun11_two_30.py(30 rounds for daily tasks by default)
+
+Before run all the scripts, you should edit the "time_round" term at config.ini to your own time of one hun10/11 round. Other parameters can also be edited to your preference. However, check weather you understand the meaning of it before you make a change.
+
+When you run the script, perhaps, some of the window title will change into "不可最小化&右下角不能遮挡", because getpixel function can not get the color of a hidden or minimized window.(Although there is [solution for the problem](https://www.xszz.org/faq-1/question-201808315704.html) online of C++ version, I am of no capbility to access the python version. Welcome to contact me, if you get the solution of python version)
  
 ## A few notes：
  
