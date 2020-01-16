@@ -33,11 +33,11 @@ Any issue or bug feedback is welcomed.For such issues, please email lichuan0987@
  
 ## Versioning
  
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [Github](https://github.com/) for versioning. 
  
 ## Authors
  
-* **Noonafter** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **noonafter** - *Initial work* - [noonafter](https://github.com/noonafter)
  
  
 ## License
