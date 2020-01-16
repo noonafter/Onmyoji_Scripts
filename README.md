@@ -39,7 +39,7 @@ The scripts works well on the resolution of 1920x1080. If your screen is of diff
  
 ## Contributing
  
-Any issue or bug feedback is welcomed.For such issues, please email lichuan0987@qq.com - note that you must read the instructions carefully first.
+Any issue or bug feedback is welcomed.For such issues, please email lichuan0987@qq.com - note that you must read the instructions carefully first. More functions will be added to the project, like auto-pumping cards and feed N dog-food. Please contact me if you have more ideas about the improvement or suggestion.
  
 ## Versioning
  
